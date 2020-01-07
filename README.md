@@ -12,3 +12,6 @@ Amezmo is a complete hosting platform for PHP applications.
 - mikestead.dotenv
 - ikappas.phpcs
 - neilbrayfield.php-docblocker
+
+# Tutorial
+[DEVto](https://dev.to/ryan1/the-best-setting-json-for-php-development-with-visual-studio-code-4agc)
